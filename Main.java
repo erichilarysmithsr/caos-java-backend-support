@@ -1,5 +1,6 @@
 package com.aphidb;
 
+import com.aphidb.NutritionixClient;
 import com.aphidb.FirebaseApp;
 import com.aphidb.PostmarkMessage;
 import java.lang.Object;
