@@ -9,7 +9,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.core.JsonProcessingException;
 
     import com.USDAFoodDataCentralAPI.models.v1.*;
-public class V1Implementation implements V1Service {
+public class Usda implements V1Service extends Main {
 // Implement your logic here
 
     
