@@ -6,7 +6,7 @@ import com.fitrax.nutritionix4j.client.dto.Brand;
 import com.fitrax.nutritionix4j.client.dto.Item;
 import com.fitrax.nutritionix4j.client.dto.SearchResults;
 
-public interface NutritionixClientIF extends Main
+public interface NutritionixClientIF extends Usda
 {   
        int calorie_max number;
        int calorie_min number1;
