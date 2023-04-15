@@ -1,5 +1,7 @@
 package com.aphidb;
 
+import com.aphidb.Usda;
+import com.SearchResultFood;
 import com.aphidb.NutritionixClient;
 import com.aphidb.FirebaseApp;
 import com.aphidb.PostmarkMessage;
