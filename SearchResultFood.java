@@ -1,6 +1,8 @@
 package com.USDAFoodDataCentralAPI.models;
 
-public class SearchResultFood {
+import java.lang.Object;
+
+public class SearchResultFood extends Usda {
   // Any additional descriptions of the food.
   private String additionaldescriptions;
     
