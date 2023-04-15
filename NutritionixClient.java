@@ -1,6 +1,7 @@
 package com.fitrax.nutritionix4j.client;
 
 import java.lang.Math;
+import java.lang.Object;
 import com.fitrax.nutritionix4j.client.dto.Brand;
 import com.fitrax.nutritionix4j.client.dto.Item;
 import com.fitrax.nutritionix4j.client.dto.SearchResults;
