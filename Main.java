@@ -1,7 +1,7 @@
 package com.aphidb;
 
 import com.aphidb.FirebaseApp;
-import com.aphidb.PostmarkMessage.java;
+import com.aphidb.PostmarkMessage;
 import java.lang.Object;
 import com.squareup.okhttp.*;
 
